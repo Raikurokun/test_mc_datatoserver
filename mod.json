@@ -1,0 +1,89 @@
+{
+  "sync_version": 3,
+  "sync": [
+    {
+      "url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/5yIP4ezg/%5B1.21.1%5D%20SecurityCraft%20v1.10.1.jar?",
+      "name": "SecurityCraft",
+      "version": "1.10.1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/b16WHzyv/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
+      "name": "Open Parties and Claims",
+      "version": "0.26.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/F3WCdx29/versions/NLWHpFiF/hole_filler_mod_1.3.0-neoforge-mc_1.21.1.jar",
+      "name": "Hole Filler Mod",
+      "version": "1.3.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/dHM5BlZ5/skinrestorer-2.7.0%2B1.21-neoforge.jar",
+      "name": "Skin Restorer",
+      "version": "2.7.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/358578/files/7830765/download",
+      "name": "Disenchanting",
+      "version": "2.3.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/445838/files/5617654/download",
+      "name": "Animal Feeding Trough",
+      "version": "1.1.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/458048/files/5918197/download",
+      "name": "Diagonal Fences",
+      "version": "21.1.0",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/423421/files/6897510/download",
+      "name": "Jump Over Fences",
+      "version": "1.6.1",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/378609/files/7917007/download",
+      "name": "Tom's Simple Storage",
+      "version": "2.3.2",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/945479/files/6418577/download",
+      "name": "What Are They Up To",
+      "version": "1.2.7",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/237749/files/7796187/download",
+      "name": "CoroUtil",
+      "version": "1.3.9",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/593981/files/7359251/download",
+      "name": "Magnum Torch",
+      "version": "21.1.1",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/241895/files/7966129/download",
+      "name": "KleeSlabs",
+      "version": "21.1.10",
+      "type": "mod"
+    },
+    {
+      "url": "https://www.curseforge.com/api/v1/mods/570431/files/6497876/download",
+      "name": "Trade Cycling",
+      "version": "1.0.18",
+      "type": "mod"
+    }
+  ]
+}
